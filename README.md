@@ -61,16 +61,3 @@ I enjoy building full-stack projects, working with hardware (Arduino), and explo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimabdelhalim&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimabdelhalim&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdelhalim&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
