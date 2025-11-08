@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdelhalim</h1>
 <h3 align="center">Computer & Systems Engineering Student | Cybersecurity Enthusiast | Backend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimabdelhalim&label=Profile%20Views&color=blue&style=flat" alt="views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
