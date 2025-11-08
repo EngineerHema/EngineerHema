@@ -10,7 +10,7 @@ I'm a passionate **Computer and Systems Engineering student** with deep interest
 I enjoy building full-stack projects, working with hardware (Arduino), and exploring low-level systems.
 
 - 🎓 3rd-year CSE student at Alexandria University  
-- 🔐 Cybersecurity & systems-focused  
+- 🔐 Backend Engineering, AI & systems-focused  
 - 🧠 Interested in problem-solving, optimisation, and efficient architectures  
 - 💻 Love building with React, Spring Boot, Django, Docker & Linux  
 - 🚀 Always learning, improving, and experimenting with new technologies  
